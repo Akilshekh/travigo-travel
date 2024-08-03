@@ -68,16 +68,16 @@ export const memory = {
 };
 
 export const placesAPI = [
-  { placeImg: place1, location: "Kerala", distance: "3.0 hour dirve" },
-  { placeImg: place2, location: "Kutub-minar", distance: "2.5 hour dirve" },
-  { placeImg: place3, location: "Rajasthan", distance: "4.7 hour drive" },
-  { placeImg: place4, location: "Shimla", distance: "4 hour drive" },
-  { placeImg: place5, location: "Kashmir", distance: "4.9 hour drive" },
-  { placeImg: place6, location: "Otty", distance: "4.5 hour drive" },
-  { placeImg: place7, location: "Naini-Tal", distance: "5.5 hour drive" },
-  { placeImg: place8, location: "Gulmarg", distance: "5.1 hour drive" },
-  { placeImg: place9, location: "Leh-Ladakh", distance: "5.1 hour drive" },
-  { placeImg: place10, location: "Spiti", distance: "5.1 hour drive" },
+  { placeImg: place1, location: "India", distance: "3.0 hour dirve" },
+  { placeImg: place2, location: "Morroco", distance: "2.5 hour dirve" },
+  { placeImg: place3, location: "London", distance: "4.7 hour drive" },
+  { placeImg: place4, location: "Switzerland", distance: "4 hour drive" },
+  { placeImg: place5, location: "Maldives", distance: "4.9 hour drive" },
+  { placeImg: place6, location: "Phuket", distance: "4.5 hour drive" },
+  { placeImg: place7, location: "St. Lucia", distance: "5.5 hour drive" },
+  { placeImg: place8, location: "Santorini", distance: "5.1 hour drive" },
+  { placeImg: place9, location: "Tasmania", distance: "5.1 hour drive" },
+  { placeImg: place10, location: "Bali", distance: "5.1 hour drive" },
 ];
 
 export const pricingapi = {
